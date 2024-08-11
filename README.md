@@ -25,5 +25,4 @@ Installation and Setup:
 Contribution:
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request with your enhancements or bug fixes.
 
-License:
-[Specify License - MIT License]
+License:MIT License
